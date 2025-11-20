@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer always exploring new te
 Here are some of the projects I'm currently working on:
 
 ### BERA Tools
-- [BERA Tools](https://github.com/appliedgrg/bera-tools) is a toolset developed on top of BERA Project's research.
+- [BERA Tools](https://github.com/appliedgrg/beratools) is a toolset developed on top of BERA Project's research.
 - Key Features:
   - Built using Python and R.
   - Extract linear fearture and metrics out ot LiDAR, CHM data.
